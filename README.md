@@ -1,4 +1,3 @@
-"# RASP"
 # Raspberry Pi !!
 
 # 練習問題
