@@ -1,22 +1,34 @@
 # Raspberry Pi !!
-
+#### https://t-magic.github.io/RASP/
 # 練習問題
 ## これを作る
 (画像をクリックすると、リンク先が表示されます)
 
 [![](https://camo.qiitausercontent.com/1e493dcb6bc137fcd0ba896026ea22f9dd07dd11/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f34373132382f39306633613863642d343337322d363666322d303166392d6164306633333930363035372e6a706567)](http://qiita.com/PonDad/items/c5419c164b4f2efee368)
 
-### 1. Deep Learning Object Recognition (youtube)
+### OpenCV Face Detection with Raspberry Pi - Robotics with Python p.7
+
+[![](https://i.ytimg.com/vi/1I4gHpctXbU/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCirh9syviCYdnvecrgViBqqOCSpQ)](https://youtu.be/1I4gHpctXbU)
+
+---
+
+### Haar Cascade Object Detection Face & Eye - OpenCV with Python for Image and Video Analysis 16
+
+[![](https://i.ytimg.com/vi/88HdqNDQsEk/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCv5YoF53Wk3mJBOuiqyJyLtZ02_A)](https://youtu.be/88HdqNDQsEk)
+
+---
+
+### Deep Learning Object Recognition (youtube)
 
 [![](https://i.ytimg.com/vi/CL8cA-_qG3Y/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBFIqFu3Aei7RH3ZeyX8oGUkVTa_w)](https://youtu.be/CL8cA-_qG3Y)
 
 ---
 
-### 2. RaspberryPi GoogleAssistant
+### RaspberryPi GoogleAssistant
 
 [![](https://i.ytimg.com/vi/s_Y_BjKHEjw/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBhuBpLHIj04O7_dyvUozbHct5YhA)](https://youtu.be/s_Y_BjKHEjw)
 
-### 3. Raspberry Pi Voice-Activated Assistant - "Jasper"
+### Raspberry Pi Voice-Activated Assistant - "Jasper"
 
 [![](https://i.ytimg.com/vi/jYCpuHMpx8M/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwaWNTSA3s5oZYH8UuF60J2ID7Zw)](https://youtu.be/jYCpuHMpx8M)
 
@@ -66,13 +78,21 @@
 ---
 
 ## 最初にすること
-### 1. 池澤あやかが5分でRaspberry PiのLEDチカチカ解説
+
+### 1. RASPBERRY PI 3 を買ってみた [OS（Raspbian）のインストール]
+
+[![](https://i.ytimg.com/vi/pu4VMRHGuOY/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCfjv7D-WmcqFL5QB9R36slO0VZwQ)](https://youtu.be/pu4VMRHGuOY)
+
+[NOOBS書き込み済みmicroSDカードの作成](http://www.hiramine.com/physicalcomputing/raspberrypi2/setup_sdcard.html)  
+[SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter_4/)  
+
+### 2. 池澤あやかが5分でRaspberry PiのLEDチカチカ解説
 
 [![](https://i.ytimg.com/vi/dNHAeVCJDT0/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLC_Bqv56gkLA6uokqOXHDfKduesmA)](https://youtu.be/dNHAeVCJDT0)
 
 ----
 
-### 2. How To Make Your Raspberry Pi Speak
+### 3. How To Make Your Raspberry Pi Speak
 
 [![](https://i.ytimg.com/vi/bBVCpHLBctc/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBjMDHCdXyCOymVAV9rJqRqlG5nxQ)](https://youtu.be/bBVCpHLBctc)
 
@@ -105,17 +125,5 @@
 ### 7. Best Voice Recognition Software for Raspberry Pi
 
 [![](https://i.ytimg.com/vi/hGgw_AvEWw0/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDA1x9eeOVM8305_7FpZbXCiI6a-w)](https://youtu.be/hGgw_AvEWw0)
-
----
-
-### 8. OpenCV Face Detection with Raspberry Pi - Robotics with Python p.7
-
-[![](https://i.ytimg.com/vi/1I4gHpctXbU/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCirh9syviCYdnvecrgViBqqOCSpQ)](https://youtu.be/1I4gHpctXbU)
-
----
-
-### 9. Haar Cascade Object Detection Face & Eye - OpenCV with Python for Image and Video Analysis 16
-
-[![](https://i.ytimg.com/vi/88HdqNDQsEk/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCv5YoF53Wk3mJBOuiqyJyLtZ02_A)](https://youtu.be/88HdqNDQsEk)
 
 ---
