@@ -49,5 +49,6 @@ Serial.println(angle);
 myServo.write(angle);
  
 // wait for the servo to get there
-delay(15);
+//delay(15);
+delay(100);
 }
